@@ -1,3 +1,9 @@
+# Typescript compile folder
+lib
+
+# Typescript type definitons
+typings
+
 # Logs
 logs
 *.log
